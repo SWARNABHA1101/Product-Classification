@@ -44,7 +44,7 @@ Loss: 0.508
 Accuracy: 0.832
 
 <a href="url"><img src="https://github.com/JinghuiZhao/product-item-name-classification/blob/master/lstm_pred.png" height="800" width="500" ></a>
-<a href="url"><img src="https://github.com/JinghuiZhao/product-item-name-classification/blob/master/lstm_pred2.png" height="800" width="450" ></a>
+<a href="url"><img src="https://github.com/JinghuiZhao/product-item-name-classification/blob/master/lstm_pred2.png" height="800" width="400" ></a>
 ## Comments and thoughts:
 * When it comes to creating features:
 Women are the main consumers for beauty(cosmetics) and jewelery stuffs.
